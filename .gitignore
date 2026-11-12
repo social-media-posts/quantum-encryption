@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+src/chunks/
+out/*
+!out/.gitkeep
+assets/*.mp3
